@@ -12,7 +12,7 @@ const args = process.argv.slice(2);
 
 if (args.includes("--help") || args.includes("-h")) {
   console.log(`
-  \x1b[36m\x1b[1mAgent Town\x1b[0m  Pixel-style AI Agent collaboration community
+  \x1b[36m\x1b[1mAgent City\x1b[0m  Pixel-style AI Agent collaboration community
 
   Usage
     $ agent-town [options]

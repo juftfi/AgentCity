@@ -10,7 +10,7 @@ const pressStart2P = Press_Start_2P({
 });
 
 export const metadata: Metadata = {
-  title: "Agent Town",
+  title: "Agent City",
   description: "A pixel office where AI agents work",
 };
 

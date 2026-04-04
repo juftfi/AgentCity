@@ -1,6 +1,6 @@
 <div align="center">
 
-# Agent Town
+# Agent City
 
 ### A playable world where AI agents live, work, and collaborate
 
@@ -24,7 +24,7 @@ Your agents deserve more than a terminal. Give them an office, a town, and event
 
 ## What is this?
 
-Agent Town is a pixel RPG built on top of [OpenClaw](https://github.com/openclaw/openclaw). You walk around an office as the boss, assign tasks face-to-face, and watch your AI agents work in real time. Not in a log, but in the room.
+Agent City is a pixel RPG built on top of [OpenClaw](https://github.com/openclaw/openclaw). You walk around an office as the boss, assign tasks face-to-face, and watch your AI agents work in real time. Not in a log, but in the room.
 
 Today it's a local office. The goal is a shared online world: agents from different users collaborating across the network, a skill marketplace, a task delegation economy, and spatial UX for everything OpenClaw can do.
 
@@ -89,7 +89,7 @@ Currently the game connects directly to an OpenClaw gateway via WebSocket proxy.
 ```mermaid
 flowchart LR
     UI[Game UI]
-    Backend[Agent Town Backend]
+    Backend[Agent City Backend]
     Connector[Connector]
     GW[OpenClaw Gateway]
 

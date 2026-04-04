@@ -52,6 +52,24 @@ export default function BottomBar({ connection, sessionMetrics, seats }: BottomB
           {workingCount}/{assignedSeats} busy
         </span>
       </div>
+      <div className="hud-pill hud-pill--metric">
+        <Sparkles size={10} />
+        <span>
+          CA: 4444
+        </span>
+      </div>
+      <div className="hud-pill hud-pill--metric">
+        <Sparkles size={10} />
+        <span>
+          <a href="https://x.com/agent" target="_blank">@agentcity</a>
+        </span>
+      </div>
+      <div className="hud-pill hud-pill--metric">
+        <Sparkles size={10} />
+        <span>
+          <a href="https://t.me/agent" target="_blank">t.me/@agentcity</a>
+        </span>
+      </div>
     </div>
   );
 }
