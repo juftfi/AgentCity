@@ -61,13 +61,13 @@ export default function BottomBar({ connection, sessionMetrics, seats }: BottomB
       <div className="hud-pill hud-pill--metric">
         <Sparkles size={10} />
         <span>
-          <a href="https://x.com/agent" target="_blank">@agentcity</a>
+          <a href="https://x.com/AgentCityX" target="_blank">X: @agentcityx</a>
         </span>
       </div>
       <div className="hud-pill hud-pill--metric">
         <Sparkles size={10} />
         <span>
-          <a href="https://t.me/agent" target="_blank">t.me/@agentcity</a>
+          <a href="https://t.me/agentcityx" target="_blank">Tel: agentcityx</a>
         </span>
       </div>
     </div>
