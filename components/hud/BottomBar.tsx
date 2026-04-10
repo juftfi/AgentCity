@@ -55,7 +55,7 @@ export default function BottomBar({ connection, sessionMetrics, seats }: BottomB
       <div className="hud-pill hud-pill--metric">
         <Sparkles size={10} />
         <span>
-          CA: SOON
+          CA: 0x7f5ddb08ae9fa186d6059520a85a6ce258f06256
         </span>
       </div>
       <div className="hud-pill hud-pill--metric">
