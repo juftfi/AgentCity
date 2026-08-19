@@ -54,9 +54,9 @@ export default function BottomBar({ connection, sessionMetrics, seats }: BottomB
       </div>
       <div className="hud-pill hud-pill--metric">
         <Sparkles size={10} />
-        <a href="https://flap.sh" target="_blank">
+        <a href="https://flap.sh/bnb/0xf8ca282ee06efc714499a8d3f4ad2aaca1437777" target="_blank">
         <span>
-          CA: TBA
+          CA: 0xf8ca282ee06efc714499a8d3f4ad2aaca1437777
         </span>
         </a>
       </div>
