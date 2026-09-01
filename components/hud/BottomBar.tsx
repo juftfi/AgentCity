@@ -54,9 +54,9 @@ export default function BottomBar({ connection, sessionMetrics, seats }: BottomB
       </div>
       <div className="hud-pill hud-pill--metric">
         <Sparkles size={10} />
-        <a href="https://four.meme/" target="_blank">
+        <a href="https://four.meme/en/token/0x2b7fec9e0225fa4b2c5fd0ab394742dae8e6ffff" target="_blank">
         <span>
-          CA: TBA
+          CA: 0x2b7fec9e0225fa4b2c5fd0ab394742dae8e6ffff
         </span>
         </a>
       </div>
